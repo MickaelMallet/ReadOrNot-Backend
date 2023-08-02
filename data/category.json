@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Science-fiction"
+    },
+    {
+        "id": 2,
+        "name": "Fantasy"
+    },
+    {
+        "id": 3,
+        "name": "Roman policier"
+    },
+    {
+        "id": 4,
+        "name": "Roman historique"
+    },
+    {
+        "id": 5,
+        "name": "Roman d'aventures"
+    },
+    {
+        "id": 6,
+        "name": "Roman"
+    },
+    {
+        "id": 7,
+        "name": "Fiction"
+    },
+    {
+        "id": 8,
+        "name": "Bd"
+    },
+    {
+        "id": 9,
+        "name": "Thriller"
+    },
+    {
+        "id": 10,
+        "name": "Horreur"
+    }
+]

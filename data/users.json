@@ -1,0 +1,22 @@
+[
+    {
+        "pseudo": "kiki",
+        "email": "kiki@oclock.com",
+        "password": "kiki"
+    },
+    {
+        "pseudo": "mimi",
+        "email": "mimi@oclock.com",
+        "password": "mimi"
+    },
+    {
+        "pseudo": "jeanjean",
+        "email": "jeanjean@oclock.com",
+        "password": "jeanjean"
+    },
+    {
+        "pseudo": "wiwi",
+        "email": "wiwi@oclock.com",
+        "password": "wiwi"
+    }
+]
